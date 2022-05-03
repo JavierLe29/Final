@@ -11,11 +11,11 @@
 **Maestro Shifu**Él fue estudiante del Gran Maestro Oogway, y es el maestro de los guerreros más grandes de China, incluyendo a Po.
 **Grulla**Es un miembro de los Cinco Furiosos y un maestro en el estilo de la grulla del Hung Ga Kung Fu.
 
--[x]/(Lenguaje apropiado)
--[x]/(Ver la Pelicula)
--[x]/(Ver la trilogia)
--[x]/(Ver los creditos)
--[x]/(Ver el fandom)
+- [x]/(Lenguaje apropiado)
+- [x]/(Ver la Pelicula)
+- [x]/(Ver la trilogia)
+- [x]/(Ver los creditos)
+- [x]/(Ver el fandom)
 
 ![Imagen uno](https://es.web.img2.acsta.net/r_654_368/newsv7/15/04/16/11/03/061908.png)
 ![Imagen dos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFsRkUFs7Ywpk2nXEj7f687FhcTuTnrprxg&usqp=CAU)
