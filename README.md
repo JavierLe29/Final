@@ -19,3 +19,4 @@
 
 ![Imagen uno](https://es.web.img2.acsta.net/r_654_368/newsv7/15/04/16/11/03/061908.png)
 ![Imagen dos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFsRkUFs7Ywpk2nXEj7f687FhcTuTnrprxg&usqp=CAU)
+@Crono19 
